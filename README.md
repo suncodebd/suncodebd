@@ -1,5 +1,5 @@
 -  Hi, There 👋
-- 👀 I’m Minarul From Bangladesh, and i do content on design and development. I really enjoy learning languages and framworks like REact and React Native, as well as workd in WordPress.
+- 👀 I’m Minarul From Bangladesh, and I do content on design and development. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress.
 - I also senjoy wireframing, ui,ux , and design i genera. You can check out my linkdin .............. or facebook ............
 - 🌱 I’m currently learning React, Next.js NODE.js python and more.
 
